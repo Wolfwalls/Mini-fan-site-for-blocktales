@@ -1,0 +1,21 @@
+p {
+  color: rgb(209, 143, 0);
+}
+h1 {
+  color: rgb(72, 170, 255);
+}
+h2 {
+  color: rgb(116, 211, 27);
+}
+a {
+  color: rgb(165, 2, 2);
+}
+dt {
+  color: rgb(233, 179, 3);
+}
+dd {
+  color: rgb(166, 25, 179);
+}
+body {
+  background-color: black;
+}
